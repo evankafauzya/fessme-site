@@ -59,7 +59,7 @@ images/
 - Use the report button for inappropriate content
 
 ## Contact
-For questions or support, email: [fessme.support@gmail.com](mailto:fessme.support@gmail.com)
+For questions or support, email: [evankafauzya30@gmail.com](mailto:evankafauzya30@gmail.com)
 
 ## License
 MIT
